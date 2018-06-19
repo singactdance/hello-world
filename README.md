@@ -1,2 +1,3 @@
 # hello-world
 I'm just a basic white girl in over her head...
+The year was 2001. All she asked for for Christmas were three books on HTML. She would pour over those books and furiously code her Angelfire-hosted Hanson fan site into the wee hours of the morning. And then, suddenly, adulthood hit her square in the jaw like a thing that hits you square in the jaw, and she would HTML no more. Until, one golden day, as a messy-bun, yoga-pants, pumpkin-spice-latte mama of two, she found GitHub.
